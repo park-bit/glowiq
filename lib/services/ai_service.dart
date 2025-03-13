@@ -6,7 +6,6 @@ import '../utils/file_storage.dart';
 class AIService {
   static const String _apiKey = 'YOUR API KEY';
   static const String _apiUrl = 'API URL';
-
   static Future<String> getRecommendations(UserModel user) async {
     try {
       final workouts = await FileStorage.loadWorkouts();
