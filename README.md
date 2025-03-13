@@ -90,16 +90,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**Let’s build GlowIQ together!** 💪  
-Feel free to reach out if you need guidance or want to discuss ideas.  
-📧 Email: your.email@example.com  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+Feel free to reach out if you want to discuss ideas.  
+📧 Email: parthbhuskade@proton.me
+🐦 Twitter: [@wtfuhighondude](https://x.com/wtfuhighondude?t=wEB0teMmrB76M1bNpkHxbg&s=09)
 ```
-
----
-
-### Key Notes for the README:
-1. **User-Friendly**: Clear steps for installation and configuration.
-2. **Contribution-Focused**: Explicitly invites help due to the app’s experimental state.
-3. **Transparency**: Highlights known issues to set expectations.
-4. **Code Comments**: Emphasizes that the code is well-documented for easy collaboration.
